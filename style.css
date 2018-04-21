@@ -1,0 +1,61 @@
+
+body,
+html {
+  width: 100%;
+  height: 100%; 
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: #F05F44; 
+}
+
+.faded {
+  color: rgba(166, 255, 166, 0.8); 
+}
+
+header.nwtsti {
+  background-position: center;
+  background-image: url("247search.jpg");
+  background-size: 890px 555px;
+      background-repeat: no-repeat;
+
+  height: 100%;
+}
+
+header.nwtsti hr {
+  margin-top: 200px;
+  margin-bottom: 30px; 
+}
+
+header.nwtsti h1 {
+  font-size: 2rem; 
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-xl {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44; }
+
+.btn-primary:hover {
+  background-color: #ee8b22;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
+  
